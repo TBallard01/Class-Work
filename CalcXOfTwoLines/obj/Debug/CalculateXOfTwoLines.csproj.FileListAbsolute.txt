@@ -1,0 +1,7 @@
+C:\Users\tyler\source\repos\CalcXOfTwoLines\bin\Debug\ConsoleApp9.exe.config
+C:\Users\tyler\source\repos\CalcXOfTwoLines\bin\Debug\ConsoleApp9.exe
+C:\Users\tyler\source\repos\CalcXOfTwoLines\bin\Debug\ConsoleApp9.pdb
+C:\Users\tyler\source\repos\CalcXOfTwoLines\obj\Debug\CalculateXOfTwoLines.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\CalcXOfTwoLines\obj\Debug\CalculateXOfTwoLines.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\CalcXOfTwoLines\obj\Debug\ConsoleApp9.exe
+C:\Users\tyler\source\repos\CalcXOfTwoLines\obj\Debug\ConsoleApp9.pdb
