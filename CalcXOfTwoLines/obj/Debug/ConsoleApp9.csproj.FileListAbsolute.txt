@@ -1,0 +1,7 @@
+C:\Users\tyler\source\repos\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\tyler\source\repos\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\tyler\source\repos\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\tyler\source\repos\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\tyler\source\repos\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\tyler\source\repos\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
