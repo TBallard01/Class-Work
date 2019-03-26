@@ -42,7 +42,7 @@ namespace CalculateXOfTwoLines
             }
             else
             {
-                x = (lineA.Slope - lineB.Slope) / (lineA.YInt - lineB.YInt);
+                x = (lineB.YInt - lineA.YInt) / (lineB.Slope - lineA.Slope);
                 Console.Write("X equals: ");
                 return x;
             }        
